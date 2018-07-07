@@ -1,6 +1,6 @@
 {
   "name": "react-cnjs",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "antd-mobile": "^1.6.3",
@@ -94,11 +94,11 @@
       "transform-decorators-legacy"
     ],
     "presets": [
-      "react-cnjs"
+      "react-app"
     ]
   },
   "eslintConfig": {
-    "extends": "react-cnjs",
+    "extends": "react-app",
     "rules": {
       "react/jsx-pascal-case": 2,
       "react/jsx-closing-bracket-location": 2,
